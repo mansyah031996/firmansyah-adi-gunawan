@@ -1,0 +1,6 @@
+{
+  "name": "DASHBOARD PROJECT TEAM CI",
+  "description": "Dashboard presentasi & rekapitulasi jam kerja proyek restorasi unit SM 2023-2026 dengan analisis divisi, status delivery, dan alokasi teknisi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
